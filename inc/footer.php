@@ -35,8 +35,8 @@
 				<div class="col_1_of_4 span_1_of_4">
 					<h4>Liên hệ</h4>
 						<ul>
-							<li><span>0968323331</span></li>
-							<li><span>0968323331</span></li>
+							<li><span>113</span></li>
+							<li><span>115</span></li>
 						</ul>
 						<div class="social-icons">
 							<h4>Thêm dõi chúng tôi</h4>
